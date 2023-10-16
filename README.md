@@ -1,7 +1,7 @@
 # credit_card_fraud
 Consists of 20 important and diverse metrics and 8000 records of transactions
 
-20 fields include:
+20 fields include: <br />
 Transaction Date and Time <br />
 Transaction Amount<br />
 Cardholder Name <br />
